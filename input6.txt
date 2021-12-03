@@ -1,0 +1,17 @@
+5   40
+
+206 Yashir      356 Ryan        311 Ruth                 117 Morgan          341 Mard       251 Losak
+
+266 Kelly                   371 Ramir  258 Qu                               176 Park                 100 Wesley  288 Victor
+
+161 Sergio      146 Saman   303 Sahil                228 Saber       333 Saad                 221 Kagen
+
+318 John                    122 Jian             213 Jesus                 191 Jared               348 Jian          281 Hannah
+
+273 Gonzal     198 Gevork  243 Daniel  371 bill                      363 Barla                 183 Amir
+
+153 Eric                     131 David             108 Darnell  236 Ayush  326 Areesh  378 Amr
+
+221 Alan                    386 Akan             138 Ahmed  200 Ali 
+
+ 5 243 206 100 400 363
